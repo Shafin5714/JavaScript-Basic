@@ -1,1 +1,1 @@
-# JavaScript-Basic-
+All The Basic JavaScript Code
