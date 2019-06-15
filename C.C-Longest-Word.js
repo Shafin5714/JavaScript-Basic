@@ -6,6 +6,7 @@ function findingLongetWord(str)
     for(words of string)//converting them into individual words 
     {
         console.log(words)
+        
         if(words.length > longest.length )
         {
             longest=words;

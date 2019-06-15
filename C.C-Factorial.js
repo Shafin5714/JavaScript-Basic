@@ -4,7 +4,7 @@ function factorial(num)
     for(i=num;i>=1;i--)
     {
        
-        sum=sum*i;
+         sum=sum*i;
     }
     return sum;
 

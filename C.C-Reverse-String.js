@@ -3,6 +3,7 @@
 
 function reverseStr(str)
 {
+    
  var string=str.split('') //converting string to array
 
  console.log(string);
