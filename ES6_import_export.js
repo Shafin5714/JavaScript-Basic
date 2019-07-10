@@ -61,3 +61,6 @@ export default function () { ··· } // no semicolon!
 //------ main1.js ------
 import myFunc from 'myFunc';
 myFunc();
+
+
+//<script type="module" src="main.js">
