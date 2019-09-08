@@ -25,6 +25,19 @@
  
  const{firstName:a ,lastName:b}=obj;
  console.log(a);
+
+
+ const product ={
+    label: 'Red notebook',
+    price:3,
+    stock:201,
+    salePrice:undefined
+}
+const {label:productLabel,price,stock,salePrice }= product //renamed the variable label:product label
+//we can rename the variable we can use different name
+
+console.log(productLabel);
+
  
  
  //in function

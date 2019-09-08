@@ -31,7 +31,7 @@ function revStr2(str2)
     {
         var rev = str2[i];
         console.log(rev);
-       final =final+str2[i]; //adding the string to empty string
+        final =final+str2[i]; //adding the string to empty string
        
 
     }
