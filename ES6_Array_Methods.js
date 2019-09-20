@@ -61,6 +61,8 @@ console.log(lastedTenYears);
 
 // map
 
+// works for each element 
+
 // create array of company names
 const companyName= companies.map(companyn=>companyn.name);
 console.log(companyName);
