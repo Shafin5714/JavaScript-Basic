@@ -69,6 +69,17 @@ const LOCAL_FORECAST = {
   console.log(lowToday);
   console.log(highToday);
   
-  // Only change code above this line
   
+const profileInfo = ({name,age,nationality,Location})=>{
+    console.log(name,age,nationality,Location);
+}
+
+ let profileData = {
+     name:"Shafin",
+     age:25,
+     nationality:"Bangladeshi",
+     Location:"Dhaka,Bangladesh"
+ }
+ profileInfo(profileData)
+
  
