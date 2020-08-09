@@ -61,6 +61,27 @@ const hybrid = {name: "Gryphon", ...lion, ...eagle};
 console.log(hybrid);
 
 
+let cars = [
+    {
+        id:"p1",
+        name:"Ford Explorer"
+    },
+    {
+        id:"p1",
+        name:"7 Toyota Corolla"
+    },
+    {
+        id:"p1",
+        name:"Chevrolet Malibu"
+    }
+]
+
+let human ={
+    name:"Shafin",
+    age:"26"
+}
+// for react 
+console.log({...human});
 
 
 
